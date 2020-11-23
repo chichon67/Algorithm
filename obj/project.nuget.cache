@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4rJvuRfAyFKj7czYYQvDIuSkcfP99Y5Ji2nQeonLnfhMGiyOVb0MkOC+xiAP27DYu1YAuLCAyD6003Ljfp+sCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marca\\source\\repos\\Algorithm\\Algorithm\\Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
